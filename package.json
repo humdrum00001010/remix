@@ -1,0 +1,11 @@
+{
+  "name": "reproduce-super-headers-nonnumeric",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "reproduce": "node index.js"
+  },
+  "dependencies": {
+    "remix": "3.0.0"
+  }
+}
