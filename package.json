@@ -1,0 +1,12 @@
+{
+  "name": "reproduce-if-none-match-weak",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "remix": "3.0.0"
+  }
+}
+
