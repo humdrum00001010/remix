@@ -1,0 +1,12 @@
+{
+  "name": "reproduce-remix-tar-directory-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "remix": "3.0.0"
+  }
+}
+
